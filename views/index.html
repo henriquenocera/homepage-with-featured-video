@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+    <title>Site Exemplo</title>
+</head>
+<body>
+    <div class="background">
+    </div>
+    <div class="background-overlay">
+    </div>
+
+
+    <section class="grid-container">
+        <header class="menu">
+            <a href="https://axioscorp.com.br" target="_blank"><img class="logo" src="/img/Logo.png" alt="Logo"></a>
+            <ul>
+                <li><a href="https://axioscorp.com.br" target="_blank">HOME</a></li>
+                <li><a href="https://axioscorp.com.br" target="_blank">SOBRE</a></li>
+                <li><a href="https://axioscorp.com.br" target="_blank">PROJETOS</a></li>
+            </ul>
+            <a class="contato" href="#" target="_blank">CONTATO</a>
+        </header>
+        <div class="col-esq">
+            <p class="small-text">Vídeos Sob Demanda</p>
+            <h1>Filmagem e Edição </br> De Vídeos Profissionais </h1>
+            <div class="flex">
+            <p>Somos os Melhores</p>
+            <div id="play" onclick="PlayPause(); changeIMG()"  class="button-container">
+                <img id="play-img" class="play-button" src="/img/play.svg" alt="Play Button">
+                <img id="pause-img" class="pause-button" src="/img/pause.svg" alt="Play Button">
+            </div>
+
+        </div>
+        </div>
+        <div class="col-dir">
+            <div class="video">                          
+                <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;">
+            <div id="wistia_zj3a9x9ua5" class="wistia_embed" style="height:100%;width:100%">&nbsp;</div></div></div>
+        </div>
+        </div>
+    </section>
+    <script src="//fast.wistia.com/assets/external/E-v1.js" charset="ISO-8859-1"></script>
+    <script>
+        wistiaEmbed = Wistia.embed("zj3a9x9ua5");
+    </script>
+    <script src="https://fast.wistia.com/embed/medias/zj3a9x9ua5.jsonp" async></script>
+    <script src="/js/script.js"></script>
+</body>
+</html>
