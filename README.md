@@ -7,7 +7,7 @@
 - CSS
 - JavaScript
 - jQuery
-- Wistia (Hospedagem do vídido)
+- Wistia (Hospedagem do vídeo)
 
 
 
@@ -31,6 +31,8 @@
 
 
 
+<br />
+<br />
 
-### Projeto desenvolvido para fins educativos.
-### Todas as mídias foram retiradas de banco de imagens gratuitos.
+#### Projeto desenvolvido para fins educativos.
+#### Todas as mídias foram retiradas de banco de imagens gratuitos.
