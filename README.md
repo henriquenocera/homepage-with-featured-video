@@ -1,8 +1,8 @@
-# Site com Vídeo em Destaque
+# Homepage com Vídeo em Destaque
  
 ![Layout do Projeto](https://github.com/henriquenocera/portifolio-homepage-video-em-destaque/blob/master/img/layout.jpg?raw=true)
 
-## Tecnologias Usadas:
+## technologies used:
 - HTML
 - CSS
 - JavaScript
@@ -34,5 +34,4 @@
 <br />
 <br />
 
-#### Projeto desenvolvido para fins educativos.
-#### Todas as mídias foram retiradas de banco de imagens gratuitos.
+#### Projeto desenvolvido para fins educativos. \*</br>\* Todas as mídias foram retiradas de banco de imagens gratuitos.
