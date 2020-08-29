@@ -2,7 +2,7 @@
  
 ![Layout do Projeto](https://github.com/henriquenocera/portifolio-homepage-video-em-destaque/blob/master/img/layout.jpg?raw=true)
 
-## technologies used:
+## Technologies used:
 - HTML
 - CSS
 - JavaScript
