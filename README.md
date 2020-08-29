@@ -2,6 +2,9 @@
  
 ![Layout do Projeto](https://github.com/henriquenocera/portifolio-homepage-video-em-destaque/blob/master/img/layout.jpg?raw=true)
 
+## Live Demo:
+[Live Demo on Github Pages](https://henriquenocera.github.io/portifolio-homepage-video-em-destaque)
+
 ## Technologies used:
 - HTML
 - CSS
