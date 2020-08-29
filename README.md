@@ -34,4 +34,4 @@
 <br />
 <br />
 
-#### Projeto desenvolvido para fins educativos. \*</br>\* Todas as mídias foram retiradas de banco de imagens gratuitos.
+##### Projeto desenvolvido para fins educativos. \</br> Todas as mídias foram retiradas de banco de imagens gratuitos.
