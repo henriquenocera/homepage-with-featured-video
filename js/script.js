@@ -9,10 +9,10 @@ function PlayPause() {
 	}
 }
 
-function changeIMG() {
-	const playImg = document.querySelector('#play-img');
-	const pauseImg = document.querySelector('#pause-img');
+function changeButton() {
+	const playButton = document.querySelector('#play-button');
+	const pauseButton = document.querySelector('#pause-button');
 
-	playImg.classList.toggle('none');
-	pauseImg.classList.toggle('block');
+	playButton.classList.toggle('none');
+	pauseButton.classList.toggle('none');
 }
