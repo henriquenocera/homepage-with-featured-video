@@ -1,9 +1,9 @@
 # Homepage com Vídeo em Destaque
  
-![Layout do Projeto](https://github.com/henriquenocera/portifolio-homepage-video-em-destaque/blob/master/img/layout.jpg?raw=true)
+![Layout do Projeto](https://github.com/henriquenocera/homepage-video-em-destaque/blob/master/img/layout.jpg?raw=true)
 
 ## Live Demo:
-[Github Pages](https://henriquenocera.github.io/portifolio-homepage-video-em-destaque)
+[Github Pages](https://henriquenocera.github.io/homepage-video-em-destaque)
 
 ## Technologies used:
 - HTML
