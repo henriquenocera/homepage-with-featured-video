@@ -10,7 +10,7 @@
 - CSS
 - JavaScript
 - jQuery
-- Wistia (Hospedagem do vídeo)
+- [Wistia](https://wistia.com/)
 
 
 
@@ -37,4 +37,4 @@
 <br />
 <br />
 
-##### Projeto desenvolvido para fins educativos.  <br />Todas as mídias foram retiradas de banco de imagens gratuitos.
+##### Projeto desenvolvido para fins educativos sob a [Licença WTFPL](https://github.com/henriquenocera/homepage-video-em-destaque/blob/master/LICENSE)
